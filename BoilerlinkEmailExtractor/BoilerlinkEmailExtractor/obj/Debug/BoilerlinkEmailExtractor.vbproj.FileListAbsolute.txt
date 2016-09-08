@@ -1,0 +1,10 @@
+C:\Users\Dominick\Desktop\BoilerlinkEmailExtractor\BoilerlinkEmailExtractor\bin\Debug\BoilerlinkEmailExtractor.exe
+C:\Users\Dominick\Desktop\BoilerlinkEmailExtractor\BoilerlinkEmailExtractor\bin\Debug\BoilerlinkEmailExtractor.pdb
+C:\Users\Dominick\Desktop\BoilerlinkEmailExtractor\BoilerlinkEmailExtractor\bin\Debug\BoilerlinkEmailExtractor.xml
+C:\Users\Dominick\Desktop\BoilerlinkEmailExtractor\BoilerlinkEmailExtractor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominick\Desktop\BoilerlinkEmailExtractor\BoilerlinkEmailExtractor\obj\Debug\BoilerlinkEmailExtractor.Form1.resources
+C:\Users\Dominick\Desktop\BoilerlinkEmailExtractor\BoilerlinkEmailExtractor\obj\Debug\BoilerlinkEmailExtractor.Resources.resources
+C:\Users\Dominick\Desktop\BoilerlinkEmailExtractor\BoilerlinkEmailExtractor\obj\Debug\BoilerlinkEmailExtractor.vbproj.GenerateResource.Cache
+C:\Users\Dominick\Desktop\BoilerlinkEmailExtractor\BoilerlinkEmailExtractor\obj\Debug\BoilerlinkEmailExtractor.exe
+C:\Users\Dominick\Desktop\BoilerlinkEmailExtractor\BoilerlinkEmailExtractor\obj\Debug\BoilerlinkEmailExtractor.xml
+C:\Users\Dominick\Desktop\BoilerlinkEmailExtractor\BoilerlinkEmailExtractor\obj\Debug\BoilerlinkEmailExtractor.pdb
