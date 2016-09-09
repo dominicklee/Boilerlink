@@ -1,4 +1,4 @@
-# Boilerlink
+# Boilerlink Email Extractor
 A utility to export member emails from Purdue Boilerlink Club pages
 
 Purdue Boilerlink is a great way for students to find clubs and get associated with clubs. However, it is currently not easy for a club president, treasurer, or any other club officer to access a list of registered members' email addresses for mass mailing purposes. This is a problem of concern since it is tedious for club officers to manually type in the email addresses of members to an email program such as Outlook.
